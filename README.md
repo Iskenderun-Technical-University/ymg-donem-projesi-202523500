@@ -1,9 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QA5O9x4M)
 # KAHVE DÜKKANI PROJESİ ....
 
-## Projem JavaFX dilinde bir uygulamadır ,müşteri isteklerini ve
+## Projem HTML/CSS dilinde bir uygulamadır ,müşteri isteklerini ve
 ## her çeşit kahve ve tatlının listesini içeren bir veritabanı(DataBase)içerir.
-## java ve MySql.
 ## dil: türkçe.
  
 #### 1- Giriş Sayfası "login" (Form1): Müşterinin kullanıcı kayıt oluşturması sonra giriş yapması.

@@ -2,7 +2,6 @@
 # KAHVE DÜKKANI PROJESİ ....
 
 ## Projem HTML/CSS dilinde bir uygulamadır ,müşteri isteklerini ve
-## her çeşit kahve ve tatlının listesini içeren bir veritabanı(DataBase)içerir.
 ## dil: türkçe.
  
 #### 1- Giriş Sayfası "login" (Form1): Müşterinin kullanıcı kayıt oluşturması sonra giriş yapması.

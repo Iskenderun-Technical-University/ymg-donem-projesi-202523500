@@ -62,18 +62,18 @@ html::-webkit-scrollbar{
   margin-left: 56px;
 }
 .content h3{
-  font-size: 50px;
-  color: white;
+  font-size: 55px;
+  color: #F5D0A9 ;
 }
 .content p{
   margin-top: 10px;
-  color: white;
+  color: #F5D0A9 ;
 }
 #btn{
   width: 150px;
   height: 36px;
   margin-top: 20px;
-  background: white;
+  background: #F6E3CE;
   border-radius: 5px;
   font-weight: bold;
   border: none;
@@ -90,7 +90,7 @@ html::-webkit-scrollbar{
 #about{
   width: 100%;
   height: 100vh;
-  background: #f7f5f2;
+  background: #F6E3CE;
   font-family: 'Roboto', sans-serif;
 }
 #about .container{
@@ -426,12 +426,12 @@ html::-webkit-scrollbar{
   margin-top: 30px;
   padding: 10px;
   background: black;
-  color: white;
+  color: #F8ECE0;
   border-radius: 10px;
   cursor: pointer;
 }
 .credite{
-  color: white;
+  color: #F6E3CE;
   margin-top: 20px;
 }
 .credite{
